@@ -32,6 +32,12 @@ st.markdown("""
                     padding-left: 1rem;
                     padding-right: 1rem;
                 }
+               .block-container css-z5fcl4 e1g8pov64 {
+                    padding-top: 1rem;
+                    padding-bottom: 1rem;
+                    padding-left: 1rem;
+                    padding-right: 1rem;
+                }
         </style>
         """, unsafe_allow_html=True)
 
