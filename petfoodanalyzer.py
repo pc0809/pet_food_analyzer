@@ -42,7 +42,7 @@ def data_read(file):
 
 
 main_data = data_read(
-    "D:\\BlueThinQ\\Streamlit\\streamlit\\Streamlit Apps\\PetFoodAnalyzer\\Data\\data_for_streamlit_20_07_23.csv")
+    "data_for_streamlit_20_07_23.csv")
 
 
 tabs = ['Ingredient Analyzer', 'Environment Impact',
